@@ -2,3 +2,4 @@
 
 cp -r ./nvim ~/.config/nvim
 cp -r ./fastfetch ~/.config/fastfetch
+cp -r ./.zshrc ~
