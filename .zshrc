@@ -1,4 +1,4 @@
-export PATH=$PATH:/home/hangil/.local/bin
+export PATH=$PATH:~/.local/bin
 
 # Use brew package manager
 export PATH="/home/linuxbrew/.linuxbrew/bin/:$PATH"
