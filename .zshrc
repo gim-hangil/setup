@@ -5,7 +5,7 @@ export PATH="/home/linuxbrew/.linuxbrew/bin/:$PATH"
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv zsh)"
 
 # Use Pure Prompt
-fpath+=("$(brew --prefix)/share/zsh/site-functions")
+fpath+=($HOME/.zsh/pure)
 autoload -U promptinit; promptinit
 prompt pure
 
