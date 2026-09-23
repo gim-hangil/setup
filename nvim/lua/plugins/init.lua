@@ -1,0 +1,5 @@
+require('plugins.colorscheme')
+require('plugins.nvim-tree')
+require('plugins.barbar')
+require('plugins.copilot')
+require('plugins.lsp-config')
