@@ -5,13 +5,11 @@
   },
   "modules": [
     "os",
-    "host",
     "cpu",
     "gpu",
     "memory",
     "swap",
     "disk",
-    "battery",
     "break",
     "colors"
   ]
