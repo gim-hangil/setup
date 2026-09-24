@@ -41,4 +41,3 @@ alias vim=nvim
 alias ff=fastfetch
 alias cat='bat --theme Dracula'
 alias ls='eza -laX --icons --color=always'
-alias binaryninja='~/Desktop/BinaryNinja/binaryninja/binaryninja'
